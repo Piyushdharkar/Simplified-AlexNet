@@ -4,3 +4,7 @@ This is a simpler version of the AlexNet convolutional neural network, trained o
 
 Link to the paper: https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks
 
+Link to the dataset: https://www.cs.toronto.edu/~kriz/cifar.html
+
+The dataset can also be loaded through the keras library.
+
