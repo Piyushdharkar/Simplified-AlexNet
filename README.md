@@ -6,5 +6,7 @@ Link to the paper: https://papers.nips.cc/paper/4824-imagenet-classification-wit
 
 Link to the dataset: https://www.cs.toronto.edu/~kriz/cifar.html
 
-The dataset can also be loaded through the keras library.
+The dataset can also be loaded through the keras library. 
+
+Run the notebook.ipynb file on Google Colab or on your local machine.
 
